@@ -8,7 +8,7 @@
 
 2.支持百分比的 ProgressBar 。Android custom Circular ProgresBar and Line ProgressBar with progress percentage shown.                   
 项目地址:https://github.com/natasam/Android-PercentProgressBar-lib                                 
-![image](https://github.com/natasam/Android-PercentProgressBar-lib)
+![image](https://github.com/natasam/Android-PercentProgressBar-lib/blob/master/screenshots/video0.gif)
 
 
 3.
