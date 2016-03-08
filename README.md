@@ -11,9 +11,14 @@
 ![image](https://github.com/natasam/Android-PercentProgressBar-lib/blob/master/screenshots/video0.gif)
 
 
-3.具有粘性的滑动小球，跌落反弹形成loading的效果    
+**3.具有粘性的滑动小球，跌落反弹形成loading的效果**    
 项目地址:https://github.com/yxping/AdhesiveLoadingView                 
 ![image](https://raw.githubusercontent.com/yxping/AdhesiveLoadingView/master/half2.gif),![image](https://raw.githubusercontent.com/yxping/AdhesiveLoadingView/master/half1.gif)    
 
 
-4.
+**4.好玩的下拉刷新控件，一边下拉刷新，一边打砖块**    
+项目地址:https://github.com/Hitomis/HitBlockRefresh    
+![image](https://github.com/Hitomis/HitBlockRefresh/blob/master/preview/HitBlockRefresh.gif)     
+
+
+**5.**
