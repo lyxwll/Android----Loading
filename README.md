@@ -21,4 +21,23 @@
 ![image](https://github.com/Hitomis/HitBlockRefresh/blob/master/preview/HitBlockRefresh.gif)     
 
 
-**5.**
+**5.DotProgressBarIt`s a simple progress bar.**       
+https://github.com/silvestrpredko/DotProgressBarExample       
+
+
+
+**6.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
