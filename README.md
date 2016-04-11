@@ -19,7 +19,8 @@
 
 **4.好玩的下拉刷新控件，一边下拉刷新，一边打砖块**    
 项目地址:https://github.com/Hitomis/HitBlockRefresh    
-<img src="./images/4-1.gif" width="30%" hieght="20%">     
+<img src="./images/4-1.gif" width="30%" hieght="20%">   
+<img src="./images/4-2.gif" width="30%" hieght="20%">
 
 
 **5.DotProgressBarIt`s a simple progress bar.**       
@@ -29,11 +30,11 @@ https://github.com/silvestrpredko/DotProgressBarExample
 
 **6.ArcProgressStackView：Present your progress bars in arc mode with information and total control.**     
 https://github.com/GIGAMOLE/ArcProgressStackView       
-<img src="./images/6-1.gif" width="20%" hieght="20%">
-<img src="./images/6-2.gif" width="20%" hieght="20%">
-<img src="./images/6-3.gif" width="20%" hieght="20%">
-<img src="./images/6-4.gif" width="20%" hieght="20%">
-<img src="./images/6-5.gif" width="20%" hieght="20%">
+<img src="./images/6-1.gif" width="30%" hieght="20%">
+<img src="./images/6-2.gif" width="30%" hieght="20%">
+<img src="./images/6-3.gif" width="30%" hieght="20%">
+<img src="./images/6-4.gif" width="30%" hieght="20%">
+<img src="./images/6-5.gif" width="30%" hieght="20%">
 
 
 **7.**
