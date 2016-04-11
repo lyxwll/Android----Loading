@@ -26,7 +26,13 @@ https://github.com/silvestrpredko/DotProgressBarExample
 
 
 
-**6.**
+**6.ArcProgressStackView：Present your progress bars in arc mode with information and total control.**     
+https://github.com/GIGAMOLE/ArcProgressStackView                      
+
+
+**7.**
+
+
 
 
 
