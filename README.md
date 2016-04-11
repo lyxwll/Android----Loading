@@ -19,8 +19,8 @@
 
 **4.好玩的下拉刷新控件，一边下拉刷新，一边打砖块**    
 项目地址:https://github.com/Hitomis/HitBlockRefresh    
-<img src="./images/4-1.gif" width="30%" hieght="20%">   
-<img src="./images/4-2.gif" width="30%" hieght="20%">
+<img src="./images/4-1.gif" width="30%" hieght="25%">   
+<img src="./images/4-2.gif" width="30%" hieght="25%">
 
 
 **5.DotProgressBarIt`s a simple progress bar.**       
