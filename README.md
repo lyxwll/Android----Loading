@@ -37,7 +37,11 @@ https://github.com/GIGAMOLE/ArcProgressStackView
 <img src="./images/6-5.gif" width="30%" hieght="20%">
 
 
-**7.**
+**7.CustomLoading For Android;https://github.com/stormzhang/CustomLoading**           
+<img src="./image/7-1.jpg" width="25%" height="20%">       
+
+
+**8.**
 
 
 
