@@ -41,7 +41,12 @@ https://github.com/GIGAMOLE/ArcProgressStackView
 <img src="./images/7-1.jpg" width="25%" height="20%">       
 
 
-**8.**
+**8.一款加载动画，不同的物体加速下落砸到了文字上，文字逞阻尼效果，向下弯曲并像橡皮筋一样弹动回去的效果**    
+https://github.com/Huyamin150/-dampView-springingView     
+
+
+**9.**
+
 
 
 
