@@ -45,7 +45,11 @@ https://github.com/GIGAMOLE/ArcProgressStackView
 https://github.com/Huyamin150/-dampView-springingView     
 
 
-**9.**
+**9.NumBerSeekBar,非常漂亮的，带有数字进度的SeekBar**    
+https://github.com/soyoungboy/NumberSeekBar    
+
+
+**10.**
 
 
 
