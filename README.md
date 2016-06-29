@@ -1,6 +1,10 @@
 # Android----Loading
 史上最全、新鲜、创意、炫酷的Loading都在这儿了
 
+**0.一些酷炫的加载动画， 可以与任何View配合使用，作为加载动画或者Progressbar, 此外很适合与RecyclerRefreshLayout 配合使用作为刷新的loading 动画**            
+https://github.com/dinuscxj/LoadingDrawable/blob/master/README-ZH.md
+
+
 1.渐变的圆形进度条与轻量横向进度条:MagicProgressCircle & MagicProgressBar http://blog.dreamtobe.cn/2015/12/13/magic_progress_widget/         
 项目地址:https://github.com/lingochamp/MagicProgressWidget                                  
 <img src="./images/1-1.gif" width="30%" hieght="20%">                              
