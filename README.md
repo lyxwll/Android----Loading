@@ -57,8 +57,12 @@ https://github.com/soyoungboy/NumberSeekBar
 https://github.com/ishan1604/uberprogressview     
 
 
-**11.**
+**11.a simple loadingview for android with animation**                     
+https://github.com/ldoublem/LoadingView      
 
+
+**12.**
+ 
 
 
 
