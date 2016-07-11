@@ -53,7 +53,11 @@ https://github.com/Huyamin150/-dampView-springingView
 https://github.com/soyoungboy/NumberSeekBar    
 
 
-**10.**
+**10.Uber app的加载进度条**     
+https://github.com/ishan1604/uberprogressview     
+
+
+**11.**
 
 
 
