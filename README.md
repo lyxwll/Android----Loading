@@ -61,7 +61,11 @@ https://github.com/ishan1604/uberprogressview
 https://github.com/ldoublem/LoadingView      
 
 
-**12.**
+**12.Android loading animations**     
+https://github.com/ybq/Android-SpinKit     
+
+
+**13.**
  
 
 
