@@ -65,7 +65,11 @@ https://github.com/ldoublem/LoadingView
 https://github.com/ybq/Android-SpinKit     
 
 
-**13.**
+**13.仿Slack的Loading动画**     
+https://github.com/JeasonWong/SlackLoadingView     
+
+
+**14.**
  
 
 
