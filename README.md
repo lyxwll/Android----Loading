@@ -69,7 +69,12 @@ https://github.com/ybq/Android-SpinKit
 https://github.com/JeasonWong/SlackLoadingView     
 
 
-**14.**
+**14.A Special Progress Bar for Android**                
+https://github.com/zhangke3016/SpecialProgressBar            
+
+
+**15.**
+
  
 
 
