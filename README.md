@@ -73,7 +73,14 @@ https://github.com/JeasonWong/SlackLoadingView
 https://github.com/zhangke3016/SpecialProgressBar            
 
 
-**15.**
+**15.a circle progress bar with effect**            
+https://github.com/ldoublem/RingProgress    
+
+
+**16.**
+
+
+
 
  
 
