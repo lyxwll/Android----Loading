@@ -81,8 +81,11 @@ https://github.com/ldoublem/RingProgress
 项目地址：https://github.com/daimajia/NumberProgressBar                 
 <img src="./image/16-1.gif" width="60%" height="20%">    
 
-**17.**
-
+**17.CircularProgressView,CircularProgressView 是通过自定义view的方式实现的Material风格的加载提示控件，兼容任何版本。**      
+项目地址：https://github.com/rahatarmanahmed/CircularProgressView          
+<img src="./image/39-1.gif" width="25%" height="20%">     
+ 
+**18.**             
  
 
 
