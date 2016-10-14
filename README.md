@@ -73,14 +73,15 @@ https://github.com/JeasonWong/SlackLoadingView
 https://github.com/zhangke3016/SpecialProgressBar            
 
 
-**15.a circle progress bar with effect**            
+**15.a circle progress bar with effect**             
 https://github.com/ldoublem/RingProgress    
 
 
-**16.**
+**16.NumberProgressBar,个简约性感的数字进度条**              
+项目地址：https://github.com/daimajia/NumberProgressBar                 
+<img src="./image/16-1.gif" width="60%" height="20%">    
 
-
-
+**17.**
 
  
 
