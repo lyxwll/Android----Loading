@@ -27,7 +27,7 @@ https://github.com/dinuscxj/LoadingDrawable/blob/master/README-ZH.md
 <img src="./images/4-2.gif" width="30%" hieght="30%">
 
 
-**5.DotProgressBarIt`s a simple progress bar.**       
+**5.DotProgressBar Its a simple progress bar.**       
 https://github.com/silvestrpredko/DotProgressBarExample           
 <img src="./images/5-1.gif" width="30%" hieght="20%">
 
@@ -85,8 +85,10 @@ https://github.com/ldoublem/RingProgress
 项目地址：https://github.com/rahatarmanahmed/CircularProgressView          
 <img src="./image/39-1.gif" width="25%" height="20%">     
  
-**18.**             
+**18.仿Cuto的加载动画**             
+ https://github.com/andyxialm/CutoLoadingView         
  
+**19.**
 
 
 
