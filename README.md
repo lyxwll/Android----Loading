@@ -88,6 +88,14 @@ https://github.com/ldoublem/RingProgress
 **18.仿Cuto的加载动画**             
  https://github.com/andyxialm/CutoLoadingView         
  
+**19.A square animated loader.**           
+https://github.com/yuweiguocn/SquareLoading         
+
+**20.**
+**19.**
+**19.**
+**19.**
+**19.**
 **19.**
 
 
